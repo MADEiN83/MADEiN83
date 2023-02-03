@@ -15,5 +15,5 @@ As a freelancer, I am able to bring my unique perspective and diverse skill set 
 <h1 align="center">❝</h1>
 <p align="center">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madein83&layout=compact&theme=tokyonight" />
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=madein83&theme=tokyonight" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=madein83&theme=tokyonight&t" />
 </p>
