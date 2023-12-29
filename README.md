@@ -41,12 +41,8 @@ Passionate **full-stack developer** immersed in the JavaScript world, specializi
 
 ### You can find me on...
 
-<a href="https://www.linkedin.com/in/distefanoanthony" title="Google">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30">
-</a>&nbsp;
-<a href="mailto:distefano.pro@gmail.com" title="Send Email">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail Logo" width="30" height="30">
-</a>
+<a href="https://www.linkedin.com/in/distefanoanthony" title="Google"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"></a>&nbsp;
+<a href="mailto:distefano.pro@gmail.com" title="Send Email"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail Logo" width="30" height="30"></a>
 
 ---
 
