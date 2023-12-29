@@ -47,8 +47,8 @@ Passionate **full-stack developer** immersed in the JavaScript world, specializi
 ---
 
 <p align="center">
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=madein83&show_icons=true&include_all_commits=true&show=prs_merged_percentage&hide=contribs&theme=tokyonight&count_private=true&layout=compact&rank_icon=github" />
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madein83&layout=compact&theme=tokyonight" />
+<img align="center" width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=madein83&show_icons=true&include_all_commits=true&show=prs_merged_percentage&hide=contribs&theme=tokyonight&count_private=true&layout=compact&rank_icon=github" />
+  <img align="center" width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madein83&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
